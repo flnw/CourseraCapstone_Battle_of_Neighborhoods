@@ -2,7 +2,7 @@ This file will outline the data involves and how it will be used to address the 
 
 # 1. Data to be involved
 
-A. Foursquare location data
+## A. Foursquare location data
 
 Foursquare location data will be used to obtain the following information, especially through extracting information related to the neighborhood and most common venues nearby. 
 
@@ -21,7 +21,7 @@ Apart from having an overview, I would also cluster the regions to facilitate mo
   I will be able to generate map to visualise the details of the neighborhood, as well as to have a spatial sense of those clusters. 
 
 
-B. Wikipedia data
+## B. Wikipedia data
 
 I would need to get the information from the List of Districts in Hong Kong on Wikipedia.
 https://en.wikipedia.org/wiki/Districts_of_Hong_Kong

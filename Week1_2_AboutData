@@ -1,4 +1,25 @@
-This file will outline the data involves and how it will be used to address the issue stated in a separate file. 
+This file will outline the data involves and how it will be used to address the issue. 
+
+1. Data to be involved
+A. Foursquare location data
+
+Foursquare location data will be used to obtain the following information:
+a. Neighborhood and most common venues nearby
+
+> Competition
+I would like to have an idea of the frequency of the shops in the selected neighborhoods, this would help decide if heated competition would be expected or not. 
+
+> Transport modes
+Transportation details would also be obtained through the Foursquare location data. This would be one of the key concerns, because I would like to ensure the customers would have convenient public transport if they want to avoid driving after having a drink. 
+
+> Surrounding scenary or landmarks to drive customer traffic
+It would be interesting to see if the nearby venues include recreational and sightseeing spots, which would add extra value to having a shop with better scenary or attractions to get more potential customers during weekdays and weekends. 
 
 
-Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data.
+B. Wikipedia
+> List of Districts in Hong Kong
+https://en.wikipedia.org/wiki/Districts_of_Hong_Kong
+
+This would provide the district information for reference, including location, population density, household income level. The demographic information would provide business insights.
+
+For example, I may not select the districts with extremely low income, low population density, because the coffee shop+whisky bar concept is non-essential business, and therefore, it would not be a popular option among the districts residing low income group. While there are such cases in those districts already and obviously the rental cost would be much lower, I personally do not want to gentrify those areas by joining those competitors, as this would be indetriment to the lives of those already under-privileged groups. 

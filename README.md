@@ -1,5 +1,5 @@
-# CourseraCapstone_Battle_of_Neighborhoods
-Capstone Project - The Battle of Neighborhoods
+# Coursera Capstone Project: Battle of Neighborhoods
+Hi Reviewer (and possilby people looking for ideas?)
 
 This repository consists of the files for Weeks 1 and 2 of the captsone project - The Battle of Neighborhoods. 
 

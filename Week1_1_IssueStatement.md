@@ -1,14 +1,14 @@
 This is a description of the issue of my choice and a discussion of the background
 
-1. Issue
+# 1. Issue
 Business decision to be made: To recommend a location for a client planning to open a coffee and whisky bar that sells coffee and light meal in day time, and specialty whisky and cocktail bar serving bar food in the evenings
 
 City of choice: Hong Kong
 
-2. Background
-- The client would like to maximise the use of the shop and decide to have a food and beverage shop that could attract two groups of diners at different time of the day. 
+# 2. Background
+The client would like to maximise the use of the shop and decide to have a food and beverage shop that could attract two groups of diners at different time of the day. 
 
-- Consideration of the shop location
+Consideration of the shop location
 
   a. Near prime office location
   

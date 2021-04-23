@@ -22,6 +22,7 @@ Apart from having an overview, I would also cluster the regions to facilitate mo
 
 
 B. Wikipedia data
+
 I would need to get the information from the List of Districts in Hong Kong on Wikipedia.
 https://en.wikipedia.org/wiki/Districts_of_Hong_Kong
 

@@ -13,10 +13,10 @@ City of choice: Hong Kong
   a. Near prime office location
 To attract office workers who need a decent caffeine boost, or businesspeople needing a place for mingling/informal meeting during the day.
 
-Prime office location would also imply a potential source of middle-income white collars will be around the shop, whom would be willing to pay a premium for the orders to compensate the high rental costs borne by the shop.
+  Prime office location would also imply a potential source of middle-income white collars will be around the shop, whom would be willing to pay a premium for the orders to compensate the high rental costs borne by the shop.
 
-  b. Availability of public transport
+   b. Availability of public transport
 This would bring extra convenience to the people to go home after a drink or two in the evenings, driving after getting drunk would not be wise after all.
 
-  c. Competitions around
+    c. Competitions around
 Would need to know the number of coffee shops and bars around, as well as a snapshot of the reviews of shops in close proximity.

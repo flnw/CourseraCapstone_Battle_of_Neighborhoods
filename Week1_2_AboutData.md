@@ -1,6 +1,6 @@
 This file will outline the data involves and how it will be used to address the issue. 
 
-1. Data to be involved
+# 1. Data to be involved
 
 A. Foursquare location data
 
@@ -8,17 +8,17 @@ Foursquare location data will be used to obtain the following information, espec
 
 Apart from having an overview, I would also cluster the regions to facilitate more location-specific decision-making. 
 
-> Competition
-I would like to have an idea of the frequency and nature of the shops in the selected neighborhoods. This would help decide if heated competition would be expected or not. 
+- Competition
+  I would like to have an idea of the frequency and nature of the shops in the selected neighborhoods. This would help decide if heated competition would be expected or not. 
 
-> Transport modes
-Transportation details would also be obtained through the Foursquare location data. This would be one of the key concerns, because I would like to ensure the customers would have convenient public transport if they want to avoid driving after having a drink. 
+- Transport modes
+  Transportation details would also be obtained through the Foursquare location data. This would be one of the key concerns, because I would like to ensure the customers would have convenient public transport if they want to avoid driving after having a drink. 
 
-> Surroundings or landmarks to drive customer traffic
-It would be interesting to see if the nearby venues include recreational and sightseeing spots, which would add extra value to having a shop with better scenary or attractions to get more potential customers during weekdays and weekends. 
+- Surroundings or landmarks to drive customer traffic
+  It would be interesting to see if the nearby venues include recreational and sightseeing spots, which would add extra value to having a shop with better scenary or attractions to get more potential customers during weekdays and weekends. 
 
-> Generating map
-I will be able to generate map to visualise the details of the neighborhood, as well as to have a spatial sense of those clusters. 
+- Generating map
+  I will be able to generate map to visualise the details of the neighborhood, as well as to have a spatial sense of those clusters. 
 
 
 B. Wikipedia data

@@ -3,11 +3,11 @@ Hi Reviewer (and possilby people looking for ideas?)
 
 This repository consists of the files for Weeks 1 and 2 of the captsone project - The Battle of Neighborhoods. 
 
-For Week 1
+For Week 1 (completed)
 - Week1_1_IssueStatement: Outlines the issue and a discussion of the background.
 - Week1_2_AboutData: Suggests the data involves and how it will be used to solve the problem. 
 
-For Week 2
+For Week 2 (to be commenced)
 - A link to my Notebook where you will find the code
 - A full report consisting of all of the following components
 

@@ -9,6 +9,7 @@ City of choice: Hong Kong
 - The client would like to maximise the use of the shop and decide to have a food and beverage shop that could attract two groups of diners at different time of the day. 
 
 - Consideration of the shop location
+
 a. Near prime office location
 To attract office workers who need a decent caffeine boost, or businesspeople needing a place for mingling/informal meeting during the day.
 
